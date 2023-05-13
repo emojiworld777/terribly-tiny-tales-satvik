@@ -1,0 +1,19 @@
+.App{
+  background: rgb(106,0,9);
+  background: linear-gradient(90deg, rgba(106,0,9,1) 0%, rgba(0,0,0,1) 35%, rgba(0,104,125,1) 100%);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.submit{
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  font-size: 2rem;
+  outline: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgb(126, 11, 234);
+}
