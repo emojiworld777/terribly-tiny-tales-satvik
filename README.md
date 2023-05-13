@@ -1,3 +1,7 @@
+## Deployment website link :
+https://stellular-fox-8bb16c.netlify.app/
+you can see the output on the above link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
